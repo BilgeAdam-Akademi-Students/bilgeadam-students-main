@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1,
@@ -110,4 +110,9 @@ p {
 
 .custom-card .contact img {
   width: 40px;
+}
+
+.zeynep-span {
+  color: rgba(24, 31, 76, 0.7);
+  font-style: italic;
 }
